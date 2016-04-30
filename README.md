@@ -110,8 +110,33 @@ Escribmos
 Se va a tardar unos 5-10 segundos y te lanzará a nuestro browser prestablecido en una nueva ventana localhost:8888/tree
 
 Si llegaron hasta aqui felicidades ya tenemos nuestro ambiente instalado!!!!
-
 Vamos a seguir verificando que todo corra como debe.
-Aqui vamos abrir un nuevo archivo 
+
+### Abrir un archivo en Python 3
+
+Aqui vamos abrir un archivo nuevo.
+
+    1. Dar click en New (lado derecho)
+    2. Python 3
+
+Se abrirá nuestra libreta. En la parte superior pueden cambiar el nombre del archivo a "notebook1"
+Vamos a meter nuestor primer comando en donde dice "In [ ]:"
+
+    print ("Hello World!")
+
+Debe imprimirse
+
+    Hello World!
+
+Para salir vamos a File -> Close and Halt y luego cerramos nuestra ventana y vamos a la terminal.
+Aqui escribimos lo siguiente:
+
+    ctrl + c 
+    y + enter
+
+
+Todo listo para nuestra clase el lunes!
+
+
     
 
