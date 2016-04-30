@@ -40,7 +40,7 @@ Vamos a salirnos tecleando:
 
 ## Anaconda
 
-Además, de Python es necesario instalar un montón de paqueterias que son utilizadas.
+Además de Python, es necesario instalar un montón de paqueterias que son utilizadas.
 Anaconda es una herramienta fácil de instalar que basicamente es un gestor abierto de paquetes, un administrador de ambiente y de 
 distribución de Python, y que contiene una colección de más de 720 paquetes open source  que ofrecen apoyo a la comunidad.
 Anaconda también trae instalada una interfaz de python mucho más amigable a la hora de estar programando en python llamado jupyter notebook.
@@ -78,14 +78,11 @@ Listo!
 Ya tenemos Anaconda Instalado.  
 
 ### Browser Default
-Vamos a verificar que tenemos listo el jupyter notebook de ipython.
 
 Vayan a su browser preferido (Chrome o Firefox) y establezcan a uno de ellos como default browser en configuración.
 
 ###Ipython Notebook
-Ahora regresemos a nuestra terminal y escribimos:
-
-En la terminal vamos a nuestro dirección root
+Ahora regresemos a nuestra terminal y escribimos el siguiente comando para irnos al root:
 
     $ cd 
 
@@ -96,16 +93,16 @@ Para checar en que directorio están. Les debería de salir algo asi:
 
     /Users/SU_USUARIO
 
-Escribimos 
+Escribimos el siguiente comando que  nos dirige a nuestra carpeta de Documents y crea una carpeta  llamada "python-course" para guardar todos nuestros trabajos ahí.
 
     $ cd Documents && mkdir python-course
 
-Aqui nos dirigmos a nuestra carpeta de Documents y creamos una carpeta  llamada "python-course" para guardar todos nuestros trabajos ahí.
 
-Escribmos 
+
+Escribimos 
 
     $ cd python-course && ipython notebook
-    $ipython notebook
+    $ ipython notebook
 
 Se va a tardar unos 5-10 segundos y te lanzará a nuestro browser prestablecido en una nueva ventana localhost:8888/tree
 
@@ -136,6 +133,10 @@ Aqui escribimos lo siguiente:
 
 
 Todo listo para nuestra clase el lunes!
+
+Comenzaremos con este comando en nuestra terminal:
+
+    cd Documents/python-course && ipython notebook
 
 
     
