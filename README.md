@@ -18,16 +18,20 @@ Esto lo pueden verificar haciendo lo siguiente:
     cmd + Space
 
 Escribir 
+
     terminal y
+
 Y dar enter
 
 
 Se abrirá el bash de Mac que es el Command Line. 
 
 Escriban
+
     $ python
 
 Vamos a salirnos
+
     $ exit 
 
 Voilá ya tiene python :)
@@ -41,7 +45,7 @@ Anaconda es una herramienta fácil de instalar  que basicamente es un gestor abi
 distribución de Python, y que contiene una  colección de más de 720 paquetes open source  que ofrecen apoyo a la comunidad.
 
 Para instalar vayan a la siguiente página:
-
+    
     [Insalación Anaconda](https://www.continuum.io/downloads#_macosx)
 
 Den click en el cuadro azul 
